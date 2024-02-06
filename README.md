@@ -1,7 +1,7 @@
 # Characterization of ground-based telescope control systems: a review
 
 This repository contains several XLS files corresponding to a systematic review associated with the paper "Characterization of ground-based telescope control systems: a review," published by JATIS. The filenames of these files describe the filtering process stages as follows:
--*0_original_requested.xlsx:* contains an initial list of 3540 papers requested from five databases: SPIE, JACOW, IEEE, Scopus, and WOS. 
+- *0_original_requested.xlsx:* contains an initial list of 3540 papers requested from five databases: SPIE, JACOW, IEEE, Scopus, and WOS. 
 - *1_without_duplicates.xlsx:* lists 3068 papers with all duplicates removed. 
 - *2_included by abstract.xlsx:* contains 539 papers filtered after revising the title and abstract. 
 - *3_included by content.xlsx:* includes 168 papers filtered after revising the introduction, conclusions, and sometimes the entire paper's content. 
